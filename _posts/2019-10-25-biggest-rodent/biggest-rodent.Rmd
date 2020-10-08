@@ -1,0 +1,62 @@
+---
+title: "Biggest rodent"
+description: |
+  Analysis of "Biggest rodent 'fought with teeth' like tusks"
+author:
+  - name: Student Unknown
+  - name: Van Lancker Ingrid
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: "`r Sys.Date()`"
+bibliography: biblio/rodent.bib
+categories:
+  - "English for Science"
+  - "Paleontology"
+  - "Rodent"
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+# Source of the article with publication and word count
+
+This post is an analysis of [Biggest rodent 'fought with teeth' like tusks](https://www.bbc.com/news/science-environment-31111843) [@2015rodent]
+
+My analysis has **394** words.
+
+# Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation |
+|--------------------|----------------------------------------------------------------------------------------------------|--------------------|
+| rodent | any small animal that belongs to a group of animals with strong sharp front teeth – eg. mice, rats | rongeur |
+| ... | ... | ... |
+
+# Analysis of the study
+
+- Researchers? 
+    + University of York, UK (lead author: Dr Philip Cox)
+    + University of Montevideo, Uruguay
+
+- Published in? when (if mentioned)?
+    + Journal of Anatomy (04/02/2015) 
+
+- General topic
+    + Use of front teeth by biggest rodent (South American cousin to guinea pig) 
+- Procedure/what was examined
+    + CT scan of skull (Reconstruction of computer model)
+    + Testing the model with finite element analysis (= engineering technology which calculates stresses/strains in complex objects)
+    
+- Conclusions/ discovery
+    + Very strong teeth used for:
+         + eating & biting
+         + tasks requiring strength (eg. digging, defence)
+         + => Used front teeth like tusks  (elephant)
+
+- Remaining questions ? 
+
+
+
+
+
+

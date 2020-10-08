@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# README
+README.html
+
+# MAC Files
+.DS_Store

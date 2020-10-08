@@ -1,0 +1,31 @@
+---
+title: "My English Activity Log : MEAL"
+author:
+  - name: "___" 
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+  - "M.E.A.L."
+output: distill::distill_article
+---
+
+
+Here are a few examples (some of them are based on examples I've read on blogs so far):
+
+- Sept. 25th: I downloaded the 'BBC News' App on my phone. I've started reading/watching the news on the train for 15 min.
+
+- Oct. 5th: I watched 2 episodes of The Big Bang Theory (English with English subtitles). Pretty funny episodes.
+
+- Oct. 7th: I read 2 chapters of The Immortal Life of Henrietta Lacks. I found the book very interesting so far! It's quite sad but it's important to understand that we don't just work with cells. There are people and stories behind these cells.
+
+- Oct. 10th: I went to an English evening. It was nice. Even though I was a bit scared at first, it was easy to speak with people, as everyone has a different English level and I realised my English level is not that bad. I met nice people, an American guy from SHAPE and a Korean girl who's in Mons for a year.
+
+- Oct. 22nd: I watched a documentary about abortion. Very serious topic and not fun at all but I learned a lot of interesting facts about abortion around the world.
+
+- Oct. 27th: I started using Lyricstraining. This is soooo much fun. I love doing karaoke with my sister and we play together to guess the missing words. I love it!
+
+- Oct. 30th: I decided to change my device language into English. Now my smartphone, PS4 and Ipad are all configured in English.
+
+The bottom line is: have fun! It's a very important component when learning a new language.
+
+
