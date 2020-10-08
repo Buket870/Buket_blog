@@ -1,5 +1,5 @@
 ---
-title: "___"
+title: "Buket'blog"
 site: distill::distill_website
 listing: posts
 ---

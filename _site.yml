@@ -1,6 +1,6 @@
 name: "blog-template"
-title: "___'s Blog"
-output_dir: "docs"
+title: "__Buket_'s Blog"
+output_dir: ""
 navbar:
   right:
     - text: "Home"
@@ -10,9 +10,9 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
-collections:
+      href: https://github.com/Buket870/Buket_blog.git
+base_url: Buket870.github.io/Buket_blog/ 
+    collections:
     posts:
       share: [twitter, linkedin, facebook]
       #disqus: 
