@@ -1,0 +1,52 @@
+---
+title: "One-two of symptoms that exacerbate Alzheimer’s"
+description: |
+  One-two of symptoms that exacerbate Alzheimer’s.
+author:
+  - name: Buket Duran
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Source of the article with publication date and word count:
+  
+Source of the article: [sciencedaily](https://www.sciencedaily.com/releases/2020/10/201016090155.htm)
+  
+Date: 16/10/2020
+  
+Word count : 493 
+  
+# Vocabulary:
+
+| Word from the text  | Synonym/definition in English                                                              | French translation        |
+|---------------------|--------------------------------------------------------------------------------------------|---------------------------|
+| impaired            | /                                                                                          | affaibli                  |
+| a hallmark          | /                                                                                          | Une caracteristique       |
+| To target           | Focus                                                                                      | cibler                    |
+| Cerebrospinal fluid | Clear watery fluid which fills the space between the arachnoid membrane and the Pia mater. | Liquide cérébro-rachidien |
+| Among               | /                                                                                          | Parmis                    |
+| Dementia            | a chronic or persistent disorder of the mental processes caused by brain disease.          | Démence                   |
+| Impairment          | /                                                                                          | Insuffisance              |
+| Overlap             | /                                                                                          | Chevauchement             |
+| Pathway             | /                                                                                          | Chemin                    |
+| In amyloïd-positive | /                                                                                          | Amyloïdes positives       |
+| Steps               | /                                                                                          | Étapes                    |
+
+# Analysis table about the study
+
+ | Researchers ?                      | University of Southern California                                                                                                                                                                                                                                          |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When (if mentioned) | the Journal of Neuroscience (16 octobre 2020)                                                                                                                                                                                                                              |
+| General topic                      | A new Alzheimer's study found that impaired blood flow in the brain is correlated with the buildup of tau tangles, a hallmark indicator of cognitive decline and offers that treatments targeting vascular health in the brain may be more effective in preserving memory. |
+| Procedure/ what was examined       | Carefully:Vascular health and associated risk factors.   Rechears:Cognitively normal individuals and those at various stages of dementia.   The worst cognitive symptoms                                                                                                   |
+| Conclusions/discovery              | Controlling risk factors like smoking and high blood pressure are accessible lifestyle modifications that offer hope for those at risk.                                                                                                                                    |
+| Remaining questions                | /                                                                                                                                                                                                                                                                          |

@@ -1,11 +1,13 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Buket Duran" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+# About me
+I am Buket . I am studying biological sciences at UMons.
+Duran Buket bachelor in 2nd, English for sciences with Bouchez Benedicte 
 
 - first name/surname, teacher’s name, class name and academic year

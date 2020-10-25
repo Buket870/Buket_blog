@@ -114,3 +114,7 @@ A la fin de ce module, vous devez proposer un court article qui comprend un grap
 
 Consultez le site suivant afin de personnaliser votre blog <https://rstudio.github.io/distill/blog.html>
 
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

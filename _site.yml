@@ -1,18 +1,22 @@
-name: "blog-template"
-title: "__Buket_'s Blog"
-output_dir: ""
+name: "Buket-template"
+title: "Buket's Blog"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
+    - text: "Sections"
+      menu:
+        - text: "Science posts"
+          href: list-posts.html
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html"
     - icon: fab fa-github
       href: https://github.com/Buket870/Buket_blog.git
 base_url: Buket870.github.io/Buket_blog/ 
-    collections:
+collections:
     posts:
       share: [twitter, linkedin, facebook]
       #disqus: 
