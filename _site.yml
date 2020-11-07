@@ -15,11 +15,11 @@ navbar:
           href: "posts/meal/index.html"
     - icon: fab fa-github
       href: https://github.com/Buket870/Buket_blog.git
-base_url: Buket870.github.io/Buket_blog/ 
+base_url: https://Buket870.github.io/Buket_blog/ 
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: alzheimer-blog
 output:
   distill::distill_article:
     css: style.css
