@@ -1,0 +1,40 @@
+---
+title: "graphic_description"
+description: |
+  A short article about zooplankton graph.
+author:
+  - name: Buket Duran
+date: 12-14-2020
+categories:
+  "Data Sciences I"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+# Objective
+We will analyze in this article the data that comes from the image analysis of Tulear zooplankton (Madagascar).
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+SciViews::R
+```
+
+
+```{r importation}
+data <- read("zooplankton", package = "data.io")
+
+```
+```{r graphique}
+library(ggridges)
+chart( zooplankton, class ~ perimeter %fill=% class) + 
+  geom_density_ridges(show.legend = FALSE)
+
+```
+
+We see on this graph that the perimeters are roughly the same for each of the classes except for the Malacostracan, Decapods, Clyclopoids , Calanoids and Annelids which can go up to 25 meter. We can observe that the Chaetognaths can go beyond the 25m and the Cnidarian can go up to 50m. 
+
+
+```
+
+
+

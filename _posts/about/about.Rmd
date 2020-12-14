@@ -7,7 +7,10 @@ output: distill::distill_article
 ---
 
 # About me
-I am Buket . I am studying biological sciences at UMons.
-Duran Buket bachelor in 2nd, English for sciences with Bouchez Benedicte 
+Hello dear readers, I'am Buket Duran and this my blog. 
 
-- first name/surname, teacher’s name, class name and academic year
+I don't know why I'm here but I had to create this blog for my English class, I'am not an expert in English but I am a biology student I have to make the effort to learn this language. 
+
+I'm studying biology at the University of Mons in Belguim, I'am 2nd and my professor is Mrs Bouchez.
+
+Duran Buket, Bouchez, English Class, 2020-2021

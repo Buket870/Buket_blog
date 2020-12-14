@@ -7,5 +7,15 @@ listing: posts
 .  
   
 # Home Page
-Hey this is my amazing blog!
+Hey this is my amazing blog! 
+
+In this blog who divided in multiple sections , so a part is considered for my English course where I present myself briefly in my about me. And on the orther side, a section devoted to science where I want to talk about a scientific articles based on Alzheimer's disease ! 
+
+I will try to do my best to make this blog representable !
+
+Quick access to GitHub website can be found by clicking their logos on the navigation bar. 
+
+Hoping you would have fun in my blog ! 
+
+ ~ Buket Duran, 12/12/2020~
 

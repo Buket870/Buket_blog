@@ -1,0 +1,52 @@
+---
+title: "What happens around an Alzheimer plaque ? "
+description: |
+  Second article found on ScienceDaily
+author:
+  - name: Buket Duran
+date: 12-14-2020
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+   
+# Source of the article with publication date and word count :  
+
+Source of the article: 
+[sciencedaily] (https://www.sciencedaily.com/releases/2020/07/200722134916.htm) 
+
+Date: 22 July 2020 
+
+Word count : 638 
+ 
+# Vocabulary : 
+
+| Word from the text      | Synonym/definition in English | French translation              |
+|-------------------------|-------------------------------|---------------------------------|
+| Riddled                 | Screened/ sifted              | Criblé                          |
+| Pioneering technologies | /                             | Technologie de point            |
+| Vicinity                | Close/ proximity/ area        | Proximité/ voisinage/ environs  |
+| Trigger                 | Breaker                       | Déclenchement/ déclencheur      |
+| A driver of disease     | /                             | Un conducteur de maladie        |
+| Likely                  | Probabely/ perhaps/ possibly  | Probablement/ sans doute        |
+| Set out                 | State/ outline/ enunciate     | Enoncer/ Exposer/ Définir       |
+| Neighborhood            | outskirts                     | Voisinage/ alentours            |
+| Samples                 | Specimen/ swatch              | Echantillons/ prélèvements      |
+| Strengthening           | Building/ reinforcement       | Renforcement                    |
+| Bystanders              | Witness                       | Témoins/ spectateurs            |
+
+# Analysis table about the study 
+
+| Researchers ?        | VIB (the Flanders Institute for Biotechnology)                                                                                                                                                                                                                                                                                 |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When? | The prestigious journal CELL (22 July 2020)                                                                                                                                                                                                                                                                                    |
+| General Topic        | A research team used pioneering technologies to study in detail what happens in brain cells in the direct vicinity of plaques. Their findings show how different cell types in the brain work together to mount a complex response to amyloid plaques which is likely protective at first, but later on damaging to the brain. |
+| Study and Conclusion |                                                                                                                                                                                                                                                                                                                                |

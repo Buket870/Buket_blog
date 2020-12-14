@@ -1,10 +1,10 @@
 ---
 title: "One-two of symptoms that exacerbate Alzheimer’s"
 description: |
-  One-two of symptoms that exacerbate Alzheimer’s.
+   First article found on ScienceDaily
 author:
   - name: Buket Duran
-date: "`r Sys.Date()`"
+date: "25-10-2020"
 categories:
   - "English for Science"
 #preview:
@@ -29,17 +29,17 @@ Word count : 493
 
 | Word from the text  | Synonym/definition in English                                                              | French translation        |
 |---------------------|--------------------------------------------------------------------------------------------|---------------------------|
-| impaired            | /                                                                                          | affaibli                  |
-| a hallmark          | /                                                                                          | Une caracteristique       |
+| impaired            | Odd                                                                                          | affaibli                  |
+| a hallmark          | A characteristic / a feature                                                                                          | Une caracteristique       |
 | To target           | Focus                                                                                      | cibler                    |
 | Cerebrospinal fluid | Clear watery fluid which fills the space between the arachnoid membrane and the Pia mater. | Liquide cérébro-rachidien |
 | Among               | /                                                                                          | Parmis                    |
 | Dementia            | a chronic or persistent disorder of the mental processes caused by brain disease.          | Démence                   |
-| Impairment          | /                                                                                          | Insuffisance              |
-| Overlap             | /                                                                                          | Chevauchement             |
-| Pathway             | /                                                                                          | Chemin                    |
+| Impairment          | Deficency/Failure                                                                                          | Insuffisance              |
+| Overlap             | Dupplication/ Thrust/ Staddle                                                                                          | Chevauchement             |
+| Pathway             | Way/ Road / Path                                                                                          | Chemin                    |
 | In amyloïd-positive | /                                                                                          | Amyloïdes positives       |
-| Steps               | /                                                                                          | Étapes                    |
+| Steps               | Stages/ phases                                                                                          | Étapes                    |
 
 # Analysis table about the study
 
@@ -49,4 +49,4 @@ Word count : 493
 | General topic                      | A new Alzheimer's study found that impaired blood flow in the brain is correlated with the buildup of tau tangles, a hallmark indicator of cognitive decline and offers that treatments targeting vascular health in the brain may be more effective in preserving memory. |
 | Procedure/ what was examined       | Carefully:Vascular health and associated risk factors.   Rechears:Cognitively normal individuals and those at various stages of dementia.   The worst cognitive symptoms                                                                                                   |
 | Conclusions/discovery              | Controlling risk factors like smoking and high blood pressure are accessible lifestyle modifications that offer hope for those at risk.                                                                                                                                    |
-| Remaining questions                | /                                                                                                                                                                                                                                                                          |
+

@@ -1,0 +1,46 @@
+---
+title: "Detecting Alzheimer's disease before symptoms arise "
+description: |
+   Third article found on ScienceDaily.
+author:
+  - name: Buket Duran
+date: 12-14-2020
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+ 
+# Source of the article with publication date and word count :  
+
+Source of the article: 
+https://www.sciencedaily.com/releases/2020/11/201111123942.htm ( 11 november 2020). 
+
+Word count : 578 
+
+# Vocabulary : 
+
+| Word from the text | Synonym/definition in English | French transaltion |
+|--------------------|-------------------------------|--------------------|
+| Prevent            | To warn/ To avoid/ To avert   | Prevenir           |
+| To arise           | To occur/ To come about       | Survenir           |
+| Vibrant            | Dynamic/ proactive            | Dynamique/ animée  |
+| To go through      | To cross/ to get accros       | Traverser          |
+| Buildup            | Storage/ accumulation         | Accumulation       |
+| Outward            | Outside/ out wardly           | Extérieurement     |
+| Behavioral         | Behaviour/ attitude           | Comportement       |
+
+# Analysis table about the study :
+
+| Researchers           | University of Missouri-Columbia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When ? | Alzheimer's Disease and Associated Disorders , November 11, 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| General Topic         | Both of Andrew Kiselica's grandfathers developed dementia when he was in graduate school.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Study and Conclusion  | This article shows that we can be affected by the Alzheimer’s disease without realizing ! Alzheimer’s is often defined by memory loss ! But we can define Alhzeimer’s by a change of character . The fact that a dynamic, animated person becomes overnight has a person that can also be a symptome of this disease. A increasing amyloid plaque in the brain may have the effect of memory loss and other cognitive problems but 42% of people with plaque not represent a sign of cognituve decline . In conclusion we can all be surrounded or even be trained by this disease without knowing it ! |

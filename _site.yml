@@ -1,11 +1,11 @@
-name: "Buket-template"
+name: "Buket Blog"
 title: "Buket's Blog"
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: 
       href: "posts/about/index.html"
     - text: "Sections"
       menu:

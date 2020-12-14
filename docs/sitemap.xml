@@ -2,26 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://Buket870.github.io/Buket_blog/</loc>
-    <lastmod>2020-10-25T20:18:28+01:00</lastmod>
+    <lastmod>2020-12-13T18:34:01+01:00</lastmod>
   </url>
   <url>
     <loc>https://Buket870.github.io/Buket_blog/list-posts.html</loc>
-    <lastmod>2020-10-25T20:48:32+01:00</lastmod>
+    <lastmod>2020-12-14T02:00:04+01:00</lastmod>
   </url>
   <url>
     <loc>https://Buket870.github.io/Buket_blog/posts/2020-10-25-alzheimer1/</loc>
-    <lastmod>2020-10-25T21:28:50+01:00</lastmod>
+    <lastmod>2020-12-14T00:45:54+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://Buket870.github.io/Buket_blog/posts/2020-12-14-alzheimer2/</loc>
+    <lastmod>2020-12-14T01:54:32+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://Buket870.github.io/Buket_blog/posts/2020-12-14-alzheimer3/</loc>
+    <lastmod>2020-12-14T01:56:46+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://Buket870.github.io/Buket_blog/posts/2020-12-14-alzheimer4/</loc>
+    <lastmod>2020-12-14T01:58:49+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://Buket870.github.io/Buket_blog/posts/2020-12-14-graphicdescription/</loc>
+    <lastmod>2020-12-14T00:41:11+01:00</lastmod>
   </url>
   <url>
     <loc>https://Buket870.github.io/Buket_blog/posts/about/</loc>
-    <lastmod>2020-10-25T21:37:37+01:00</lastmod>
+    <lastmod>2020-12-13T23:22:49+01:00</lastmod>
   </url>
   <url>
     <loc>https://Buket870.github.io/Buket_blog/posts/meal/</loc>
-    <lastmod>2020-10-25T20:36:26+01:00</lastmod>
+    <lastmod>2020-12-13T23:58:08+01:00</lastmod>
   </url>
   <url>
     <loc>https://Buket870.github.io/Buket_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
-    <lastmod>2020-10-25T18:54:27+01:00</lastmod>
+    <lastmod>2020-12-13T18:02:35+01:00</lastmod>
   </url>
 </urlset>

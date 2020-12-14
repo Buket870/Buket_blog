@@ -1,0 +1,41 @@
+---
+title: "Anxiety associated faster Alzheimer's disease onset"
+description: |
+  Fourth article found on ScienceDaily
+author:
+  - name: Buket Duran
+date: 12-14-2020
+categories:
+  - "English for Science"
+#preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Source of the article with publication date and word count :  
+
+Source of the article: 
+https://www.sciencedaily.com/releases/2020/11/201124092156.htm (24 november 2020). 
+ 
+Word count : 611 
+
+# Vocabulary : 
+
+| Word from the text | Synonym/definition in English | French translation |
+|--------------------|-------------------------------|--------------------|
+| Baseline           | Basic/primary                 | De base            |
+| Eldery             | Old person                    | Personnes âgées    |
+
+
+# Analysis table about the study : 
+
+| Researchers ?         | Radiological Society of North America                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When ? | 24 november 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| General Topic         | Anxiety is associated with an increased rate of progression from mild cognitive impairment to Alzheimer’s disease, according to a new study.                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Study and Conclusion  | Alzheimer’s disease is a health crisis worldwide. It is a particularly present in the U.S. and affects most often those over 65 years ! In most patients we observe anxiety . Following experiences in some patients with Alzheimer’s disease we can say that the researchers found that anxiety was independently associated with cognitive decline. We can observe that people with anxieties will be more likely to be affected by illness other. That said we cannot say exactly is anxiety really has a role to have Alzheimer’s much earlier. |
