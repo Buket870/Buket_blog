@@ -1,0 +1,41 @@
+---
+title: "Root bacterium to flight Alzheimer’s"
+description: |
+   Seventh article found on ScienceDaily
+author:
+  - name: Buket Duran
+date: "25-10-2020"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Source of the article with publication date and word count:
+  
+Source of the article with publication date and word count :  
+Source of the article: https://www.sciencedaily.com/releases/2020/11/201102120039.htm (November 2020)  
+ 
+Word count : 410 
+
+# Vocabulary:
+
+| Word from the text    | Synonym/definition in English    | French translation    |
+|-----------------------|----------------------------------|-----------------------|
+| Compounds             |                                  | composés              |
+| Framework             |                                  | Cadre                 |
+| neglected             |                                  | Négligé               |
+# Analysis table about the study
+
+
+| Researchers ?                         | Wiley                                                                                                                                                                                                                                                                                                                                             |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When (if mentioned)    | November 2, 2020                                                                                                                                                                                                                                                                                                                                  |
+| General topic                         | A bacterium found among the soil close to roots of ginseng plants could provide a new approach for the treatment of Alzheimer's. Rhizolutin, a novel class of compounds with a tricyclic framework, significantly dissociates the protein aggregates associated with Alzheimer's disease both in vivo and in vitro, as reported by scientists.    |
+| Study and Conclusion                  |                                                                                                                                                                                                                                                                                                                                                   |

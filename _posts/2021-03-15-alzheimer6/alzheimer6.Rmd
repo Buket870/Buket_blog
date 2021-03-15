@@ -1,0 +1,40 @@
+---
+title: "Abnormal hyperactivation in the brain may be an early sign of Alzheimer's. "
+description: |
+   Sixth article found on ScienceDaily
+author:
+  - name: Buket Duran
+date: 03-15-2021
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Source of the article with publication date and word count:
+
+Source of the article with publication date and word count :  
+Source of the article: 
+https://www.sciencedaily.com/releases/2021/01/210121153809.htm (21 January 2021). 
+ 
+Word count : 520 
+
+# Vocabulary:
+
+| Word from the text   | Synonym/definition in English  | French translation  |
+|----------------------|--------------------------------|---------------------|
+| knowledge            | Understanding                  | Connaissance        |
+| pinpoint             | To identify / to recognize     | identifier          |
+# Analysis table about the study
+
+| Researchers ?                         | University of Montreal                                                                            |
+|---------------------------------------|---------------------------------------------------------------------------------------------------|
+| Published in ? When (if mentioned)    | 21 January 2021                                                                                   |
+| General topic                         |   A psychology and neuroscience professor has just targeted an early biomarker of the disease.    |
+| Study and Conclusion                  | In conclusion, hyperactivity in certain areas of the brain may be an effect of Alzheimer’s        |
