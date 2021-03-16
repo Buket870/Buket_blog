@@ -4,7 +4,7 @@ description: |
    Seventh article found on ScienceDaily
 author:
   - name: Buket Duran
-date: "25-10-2020"
+date: "15-03-2021"
 categories:
   - "English for Science"
 #preview:
@@ -17,22 +17,22 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Source of the article with publication date and word count:
-  
-Source of the article with publication date and word count :  
+
+
+# Source of the article with publication date and word count :  
 Source of the article: https://www.sciencedaily.com/releases/2020/11/201102120039.htm (November 2020)  
  
 Word count : 410 
-
-# Vocabulary:
+ 
+# Vocabulary : 
 
 | Word from the text    | Synonym/definition in English    | French translation    |
 |-----------------------|----------------------------------|-----------------------|
 | Compounds             |                                  | composés              |
 | Framework             |                                  | Cadre                 |
 | neglected             |                                  | Négligé               |
-# Analysis table about the study
 
+# Analysis table about the study : 
 
 | Researchers ?                         | Wiley                                                                                                                                                                                                                                                                                                                                             |
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
