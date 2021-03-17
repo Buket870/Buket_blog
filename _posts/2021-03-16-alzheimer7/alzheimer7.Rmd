@@ -4,7 +4,7 @@ description: |
    Seventh article found on ScienceDaily
 author:
   - name: Buket Duran
-date: "15-03-2021"
+date: 03-15-2021
 categories:
   - "English for Science"
 #preview:
