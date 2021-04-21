@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-21-bibliographie/",
+    "title": "Bibliographie",
+    "description": "Bibliography of the seven articles on my portfolio",
+    "author": [
+      {
+        "name": "Buket Duran",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-21T18:09:51+02:00"
+  },
+  {
     "path": "posts/2021-04-21-introduction/",
     "title": "Introduction",
     "description": "An introduction for my portfolio.",

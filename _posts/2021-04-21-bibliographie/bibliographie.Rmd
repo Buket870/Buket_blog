@@ -1,0 +1,33 @@
+---
+title: "Bibliographie"
+description: |
+  Bibliography of the seven articles on my portfolio
+author:
+  - name: Buket Duran
+date: 04-19-2021
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Article 1 : [sciencedaily](https://www.sciencedaily.com/releases/2020/10/201016090155.htm)
+
+Article 2 : [sciencedaily] (https://www.sciencedaily.com/releases/2020/07/200722134916.htm)
+
+Article 3 : https://www.sciencedaily.com/releases/2020/11/201111123942.htm ( 11 november 2020). 
+
+Article 4 : https://www.sciencedaily.com/releases/2020/11/201124092156.htm (24 november 2020).
+
+Article 5 : https://www.sciencedaily.com/releases/2021/01/210113100824.htm ( 13 January 2021)
+
+Article 6 : https://www.sciencedaily.com/releases/2021/01/210121153809.htm (21 January 2021).
+
+Article 7 :https://www.sciencedaily.com/releases/2020/11/201102120039.htm (November 2020)
+
