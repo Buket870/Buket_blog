@@ -1,0 +1,26 @@
+---
+title: "Introduction"
+description: |
+  An introduction for my portfolio.
+author:
+  - name: Buket Duran
+date: 04-19-2021
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Welcome to my blog, I am Duran Buket and I’m studying biology at the University of Mons in Belguim, I’am 2nd and my professor is Mrs Bouchez. My portfolio for this year's English course will be held on Alzheimer’s diseas. Talking about Alzheimer's disaeses was a pretty obvious choice for me because we hear more and more people suffering from this disease, more and more my grandmother was a victim of this disease herself before she left us 
+In order not to lose anyone, Alzheimer’s is an incurable neurodegenerative disease to date of the brain tissue that leads to the progressive and irreversible loss of mental functions, including memory. 
+So I’m going to talk to you in my portfolio about the reasons that affect the onset of this disease, how what a person can forget overnight his past or the people around them. I am sure you are asking the same questions as I am about this disease, which destroys not only the person affected but also those around them. 
+Hopefully this portfolio will answer all the questions you have about this disease. 
+
+
