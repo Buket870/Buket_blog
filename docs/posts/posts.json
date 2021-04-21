@@ -17,6 +17,23 @@
     "last_modified": "2021-04-21T18:09:51+02:00"
   },
   {
+    "path": "posts/2021-04-21-conclusion/",
+    "title": "Conclusion",
+    "description": "My conclusion about my portfolio",
+    "author": [
+      {
+        "name": "Buket Duran",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-21T18:44:34+02:00"
+  },
+  {
     "path": "posts/2021-04-21-introduction/",
     "title": "Introduction",
     "description": "An introduction for my portfolio.",
@@ -204,34 +221,5 @@
     ],
     "preview": {},
     "last_modified": "2021-02-18T14:57:33+01:00"
-  },
-  {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2021-02-18T14:57:31+01:00",
-    "preview_width": 3333,
-    "preview_height": 2667
   }
 ]

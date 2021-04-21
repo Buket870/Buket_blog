@@ -1,0 +1,21 @@
+---
+title: "Conclusion"
+description: 
+  My conclusion about my portfolio
+author:
+  - name: Buket Duran
+date: 04-19-2021
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I hope that my portfolio containing my various articles based on Alzheimer’s disease has interested you and has been able to answer your various questions. For my part the realization of this portfolio has allowed me to learn much more about this disease. When I thought it was just a loss of memory because of age, I learned that many reasons could be the reason, such as anxiety. We all think that Alzheimer’s disease is a detected disease 
+by the loss of memory gold thanks to my research I could see that the change of character was also a symptom. I was also able to improve my English thanks to the realization of this portfolio, I was a bit lost at first and feared not being able to do this properly but I can say that I did well, that it was really nice and especially a nice occupation during this health crisis.
