@@ -3,7 +3,6 @@ title: "List of posts:"
 site: distill::distill_website
 listing: 
   posts:
-    - about
     - 2021-04-21-introduction
     - 2020-10-25-alzheimer1
     - 2020-12-14-alzheimer2
@@ -14,8 +13,7 @@ listing:
     - 2021-03-16-alzheimer7
     - 2021-04-21-conclusion
     - 2021-04-21-bibliographie
-    - meal
-    - 2020-12-14-graphicdescription
+    
 
 ---
 
