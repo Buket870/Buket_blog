@@ -15,8 +15,6 @@ navbar:
           href: "posts/meal/index.html"
         - text: "About Me"
           href: "posts/about/index.html"
-        - text: "Science post"
-          href: "posts/graphicdescription/index.html"
     - icon: fab fa-github
       href: https://github.com/Buket870/Buket_blog.git
 base_url: https://Buket870.github.io/Buket_blog/ 
