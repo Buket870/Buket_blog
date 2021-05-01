@@ -1,0 +1,44 @@
+---
+title: "Extra article"
+description: |
+   Extra article found on ScienceDaily
+author:
+  - name: Buket Duran
+date: "27-03-2021"
+categories:
+  - "English for Science"
+#preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Source of the article with publication date and word count:
+  
+Source of the article: 
+  https://www.sciencedaily.com/releases/2020/11/201105112952.htm  
+  
+Date: 05/11/2020
+  
+Word count : 597
+
+# Vocabulary:
+
+| Word from the text    | Synonym/definition in English    | French translation    |
+|-----------------------|----------------------------------|-----------------------|
+| circumvented          | Evade / avoid                    | contourné             |
+| afflict               | Shoot down/ affect               | affliger              |
+| cutting-edge          | /                                | De pointe             |
+| yielded               | enunciation                      | donné                 |
+| leveraged             | rod                              | levier                |
+
+# Analysis table about the study
+
+| Researchers ?                             | Hong Kong University of Science and Technology                                                                               |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When (if mentioned)        | November 5, 2020                                                                                                             |
+| General topic / Study and Conclusion      | A team has identified several new potential molecular targets in endothelial cells and microglia for AD drug development.    |
